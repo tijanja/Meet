@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79958369778",
+    "firebase_url": "https://meet-62da7.firebaseio.com",
+    "project_id": "meet-62da7",
+    "storage_bucket": "meet-62da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79958369778:android:2c758b4a00832738",
+        "android_client_info": {
+          "package_name": "teetech.com.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79958369778-2lu9r7c3i61r3kkdbqn2u7gen06hergh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teetech.com.meet",
+            "certificate_hash": "af64d84d944ddc9f99c6124e68dbadb8a0bbf7d3"
+          }
+        },
+        {
+          "client_id": "79958369778-ka131d4rnng2f2fc9q4kkjhbofaetbno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj_qstx5_lz-IsxfyRoLv4ICJ8_xPB-wQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79958369778-ka131d4rnng2f2fc9q4kkjhbofaetbno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

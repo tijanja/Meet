@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Meet</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
